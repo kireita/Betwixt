@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetwixtV2", "BetwixtV2.csproj", "{A6B9B270-4A5F-4347-951A-38440B812CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B9B270-4A5F-4347-951A-38440B812CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B9B270-4A5F-4347-951A-38440B812CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B9B270-4A5F-4347-951A-38440B812CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B9B270-4A5F-4347-951A-38440B812CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8DBA2A-6F87-406F-BA55-BC2F1F1E1AD4}
+	EndGlobalSection
+EndGlobal
