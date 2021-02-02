@@ -18,3 +18,5 @@ Release/*.xml
 Debug/*.xml
 x86/*.xml
 x64/*.xml
+DesignTimeBuild/
+v16/
