@@ -23,7 +23,7 @@ namespace BetwixtV2
         /// </summary>
         /// <param name="percent">Progress along ease function where 0-1 is 0%-100%</param>
         /// <returns>Eased percent value</returns>
-        [JetBrains.Annotations.UsedImplicitly]
+        [UsedImplicitly]
         float In(float percent);
 
         /// <summary>

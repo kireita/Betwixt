@@ -58,4 +58,4 @@ Hopefully this inspires you to think of creative ways to use Betwixt!
 
 # Contact
 
-Feel free to contact me at [twitchy137@gmail.com](mailto:twitchy137@gmail.com?subject=FFXIV Server Status Notifier) if you have any questions, or maybe if you want to toss me a few cents!
+Feel free to contact me at twitchy137@gmail.com if you have any questions, or maybe if you want to toss me a few cents!
