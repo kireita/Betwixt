@@ -11,7 +11,7 @@ If you want to  know how each function behaves please check [this](https://easin
 
 # Examples
 
-BackInOut:
+BackInOut  
 <a href="https://imgur.com/HKZiMrC"><img src="https://i.imgur.com/HKZiMrC.gif" title="source: imgur.com" /></a>
 
 BounceInOut
