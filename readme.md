@@ -11,35 +11,35 @@ If you want to  know how each function behaves please check [this](https://easin
 
 # Examples
 
-BackInOut
-[](https://i.imgur.com/LqNKasd.mp4)
+BackInOut  
+<a href="https://imgur.com/HKZiMrC"><img src="https://i.imgur.com/HKZiMrC.gif" title="source: imgur.com" /></a>
 
-BounceInOut
-[](https://i.imgur.com/cPLweew.mp4)
+BounceInOut  
+<a href="https://imgur.com/uFGIf3u"><img src="https://i.imgur.com/uFGIf3u.gif" title="source: imgur.com" /></a>
 
-CircInOut
-[](https://i.imgur.com/CkTZ2yO.mp4)
+CircInOut  
+<a href="https://imgur.com/crKTRbs"><img src="https://i.imgur.com/crKTRbs.gif" title="source: imgur.com" /></a>
 
-CubicInOut
-[](https://i.imgur.com/olFcx9p.mp4)
+CubicInOut  
+<a href="https://imgur.com/mOcFJSQ"><img src="https://i.imgur.com/mOcFJSQ.gif" title="source: imgur.com" /></a>
 
-ElasticInOut
-[](https://i.imgur.com/fOvyzUh.mp4)
+ElasticInOut  
+<a href="https://imgur.com/ZbRWWqr"><img src="https://i.imgur.com/ZbRWWqr.gif" title="source: imgur.com" /></a>
 
-ExpoInOut
-[](https://i.imgur.com/6b8CWno.mp4)
+ExpoInOut  
+<a href="https://imgur.com/926vquL"><img src="https://i.imgur.com/926vquL.gif" title="source: imgur.com" /></a>
 
-QuadInOut
-[](https://i.imgur.com/waNyRiQ.mp4)
+QuadInOut  
+<a href="https://imgur.com/Jlur3RF"><img src="https://i.imgur.com/Jlur3RF.gif" title="source: imgur.com" /></a>
 
-QuartInOut
-[](https://i.imgur.com/QDEjltq.mp4)
+QuartInOut  
+<a href="https://imgur.com/je9WqiW"><img src="https://i.imgur.com/je9WqiW.gif" title="source: imgur.com" /></a>
 
-QuintInOut
-[](https://i.imgur.com/EImyX9F.mp4)
+QuintInOut  
+<a href="https://imgur.com/COhYIvF"><img src="https://i.imgur.com/COhYIvF.gif" title="source: imgur.com" /></a>
 
-SineInOut
-[](https://i.imgur.com/4dpXeim.mp4)
+SineInOut  
+<a href="https://imgur.com/VUoGFuE"><img src="https://i.imgur.com/VUoGFuE.gif" title="source: imgur.com" /></a>
 
 # Download
 
