@@ -1,11 +1,11 @@
-Betwixt - Easy Tweening Library for .Net
+Betwixt - Easy Tweening Library for .NetCore 3.1
 ============================
 
 Betwixt is a quick way to ease and tween between any generic types, and provides a robust fast API to allow you to do
 whatever you set out to do, in the easiest way possible.
 
 This is a fork from [Jewelots's Betwixt(https://github.com/Jewelots/Betwixt) all credit and coding is done by the original author.
-I only converted it to a .Net Core Library, to have no compatibility issues.
+I only converted it to a .NetCore Library, to have no compatibility issues.
 
 If you want to  know how each function behaves please check [this](https://easings.net/) site.
 
