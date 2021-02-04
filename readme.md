@@ -11,7 +11,7 @@ If you want to  know how each function behaves please check [this](https://easin
 
 # Download
 
-You can get the latest repository here, or download precompiled library files from the [releases tab](https://github.com/Jewelots/Betwixt/releases)
+You can get the latest repository here, or download precompiled library files from the [releases tab](https://github.com/kireita/BetwixtV2/releases/tag/V2.0.0)
 
 You can also get this package using Nuget!
 
