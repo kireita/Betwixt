@@ -9,7 +9,7 @@ I only converted it to a .Net Core Library, to have no compatibility issues.
 
 If you want to  know how each function behaves please check [this](https://easings.net/) site.
 
-# Examples
+# Examples<a href="https://imgur.com/waNyRiQ"><img src="https://i.imgur.com/waNyRiQ.mp4" title="source: imgur.com" /></a>
 
 BackInOut  
 <a href="https://imgur.com/HKZiMrC"><img src="https://i.imgur.com/HKZiMrC.gif" title="source: imgur.com" /></a>
