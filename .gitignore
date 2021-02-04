@@ -11,7 +11,7 @@ build/*.xml
 lib/*.xml
 lib/*/*.xml
 lib/*/*/*.xml
-bin/*.xml
+bin/
 bin/*/*.xml
 bin/*/*/*.xml
 Release/*.xml

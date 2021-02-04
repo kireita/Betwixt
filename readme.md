@@ -4,6 +4,43 @@ Betwixt - Easy Tweening Library for .Net
 Betwixt is a quick way to ease and tween between any generic types, and provides a robust fast API to allow you to do
 whatever you set out to do, in the easiest way possible.
 
+This is a fork from [Jewelots's Betwixt(https://github.com/Jewelots/Betwixt) all credit and coding is done by the original author.
+I only converted it to a .Net Core Library, to have no compatibility issues.
+
+If you want to  know how each function behaves please check [this](https://easings.net/) site.
+
+# Examples
+
+BackInOut
+!(image)[https://i.imgur.com/LqNKasd.mp4]
+
+BounceInOut
+!(image)[https://i.imgur.com/cPLweew.mp4]
+
+CircInOut
+!(image)[https://i.imgur.com/CkTZ2yO.mp4]
+
+CubicInOut
+!(image)[https://i.imgur.com/olFcx9p.mp4]
+
+ElasticInOut
+!(image)[https://i.imgur.com/fOvyzUh.mp4]
+
+ExpoInOut
+!(image)[https://i.imgur.com/6b8CWno.mp4]
+
+QuadInOut
+!(image)[https://i.imgur.com/waNyRiQ.mp4]
+
+QuartInOut
+!(image)[https://i.imgur.com/QDEjltq.mp4]
+
+QuintInOut
+!(image)[https://i.imgur.com/EImyX9F.mp4]
+
+SineInOut
+!(image)[https://i.imgur.com/4dpXeim.mp4]
+
 # Download
 
 You can get the latest repository here, or download precompiled library files from the [releases tab](https://github.com/Jewelots/Betwixt/releases)
@@ -55,7 +92,3 @@ Tweener<float> tweener = new Tweener<float>(0, 10, 2, myCustomGraphCurve.GetValu
 
 
 Hopefully this inspires you to think of creative ways to use Betwixt!
-
-# Contact
-
-Feel free to contact me at twitchy137@gmail.com if you have any questions, or maybe if you want to toss me a few cents!
