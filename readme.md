@@ -12,34 +12,34 @@ If you want to  know how each function behaves please check [this](https://easin
 # Examples
 
 BackInOut
-!(image)[https://i.imgur.com/LqNKasd.mp4]
+[](https://i.imgur.com/LqNKasd.mp4)
 
 BounceInOut
-!(image)[https://i.imgur.com/cPLweew.mp4]
+[](https://i.imgur.com/cPLweew.mp4)
 
 CircInOut
-!(image)[https://i.imgur.com/CkTZ2yO.mp4]
+[](https://i.imgur.com/CkTZ2yO.mp4)
 
 CubicInOut
-!(image)[https://i.imgur.com/olFcx9p.mp4]
+[](https://i.imgur.com/olFcx9p.mp4)
 
 ElasticInOut
-!(image)[https://i.imgur.com/fOvyzUh.mp4]
+[](https://i.imgur.com/fOvyzUh.mp4)
 
 ExpoInOut
-!(image)[https://i.imgur.com/6b8CWno.mp4]
+[](https://i.imgur.com/6b8CWno.mp4)
 
 QuadInOut
-!(image)[https://i.imgur.com/waNyRiQ.mp4]
+[](https://i.imgur.com/waNyRiQ.mp4)
 
 QuartInOut
-!(image)[https://i.imgur.com/QDEjltq.mp4]
+[](https://i.imgur.com/QDEjltq.mp4)
 
 QuintInOut
-!(image)[https://i.imgur.com/EImyX9F.mp4]
+[](https://i.imgur.com/EImyX9F.mp4)
 
 SineInOut
-!(image)[https://i.imgur.com/4dpXeim.mp4]
+[](https://i.imgur.com/4dpXeim.mp4)
 
 # Download
 
