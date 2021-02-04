@@ -12,7 +12,7 @@ If you want to  know how each function behaves please check [this](https://easin
 # Examples
 
 BackInOut
-[](https://i.imgur.com/HKZiMrC.gif)
+!(img)[https://i.imgur.com/HKZiMrC.gif]
 
 BounceInOut
 [](https://i.imgur.com/cPLweew.mp4)
